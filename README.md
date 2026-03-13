@@ -92,7 +92,7 @@ pip install scapy pandas streamlit numpy
 # How to Run the Project
 **1. Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/network-ids-project.git
+   git clone https://github.com/ayushdhiman320/Network-ids-Project
    cd network-ids-project
    ```
 
