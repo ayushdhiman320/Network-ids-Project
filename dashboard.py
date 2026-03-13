@@ -7,7 +7,7 @@ LOG_FILE = "ids_log.csv"
 
 st.set_page_config(page_title="Network IDS Dashboard", layout="wide")
 
-st.title("🚨 Real-Time Network Intrusion Detection System")
+st.title("AI Enabled Cross-platform For Real Time Network Threat Monitoring And Mitigation (DOS/DDOS) Attack")
 
 table_placeholder = st.empty()
 stats_placeholder = st.empty()
@@ -32,7 +32,7 @@ while True:
 
             stats_placeholder.markdown(
                 f"""
-                ### 📊 Traffic Statistics
+                ### Traffic Statistics
 
                 **Total Events:** {total_events}  
                 **Suspicious Traffic:** {suspicious}  
